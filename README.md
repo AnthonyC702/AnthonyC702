@@ -7,8 +7,12 @@ meus aprendizados na minh conta pessoal do Instagram chamado "[thony_d1.8](https
 
  <p align="left">
    <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/AnthonyC702?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
-      <a href="https://github.com/ForrestKnight?tab=repositories&sort=stargazers">
+      <a href="https://github.com/AnthonyC702?tab=repositories&sort=stargazers">
          <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/AnthonyC702?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
+         <a href="https://instagram.com/thony_d1.8" target="_blank">
+  <img alt="Instagram" title="Siga no Instagram" src="https://img.shields.io/badge/Instagram-@thony_d1.8-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
+
    </p>
 
    ---
