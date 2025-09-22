@@ -3,7 +3,7 @@
 
 Olá, eu sou Anthony, Sou estudante da área de Tecnologia da Informação, atualmente focado no aprendizado e prática das linguagens Java, SQL e Python. Tenho como principal objetivo atuar como Desenvolvedor Back-end, aplicando meus conhecimentos em lógica de programação, estrutura de dados e bancos de dados para criar soluções eficientes.
 Possuo também experiência militar, que contribuiu para o desenvolvimento de disciplina, trabalho em equipe e resiliência — valores que levo para minha carreira na área de TI. Gosto de mostrar 
-meus aprendizados na minh conta pessoal do Instagram chamado "[thony_d1.8](https://www.instagram.com/thony_d1.8/)".
+meus aprendizados na minha conta pessoal do Instagram chamado "[thony_d1.8](https://www.instagram.com/thony_d1.8/)".
 
  <p align="left">
    <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/AnthonyC702?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
